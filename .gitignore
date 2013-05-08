@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /target
 /lib
 /classes
@@ -11,11 +10,3 @@ pom.xml.asc
 .lein-failures
 .lein-plugins
 .lein-repl-history
-=======
-pom.xml
-*jar
-/lib/
-/classes/
-/targets/
-.lein-deps-sum
->>>>>>> d17cefc824158cf23b49c19f153794b4a39ea424
