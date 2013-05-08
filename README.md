@@ -1,35 +1,11 @@
-# keynote
+===========
+clj-keynote
+===========
 
-FIXME: description
+Small project to make a presentable keynote using Clojure, Leiningen and a yet to be determined mark-up notation
 
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar keynote-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2013 FIXME
 
 Distributed under the Eclipse Public License, the same as Clojure.
+
+
+Copyright © 2013 Adam Neilson
